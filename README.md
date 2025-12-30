@@ -2,7 +2,7 @@
 
 **`Desenvolvedora`**
 
-Me chamo Jheniffer Rodrigues Andrade, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na escola José Liberatti, com o curso técnico em adiministração em gestão de empresas. Atualmente, estou cursando Sistemas da informação na Universidade UNIP. Sou apaixonada por tecnologia e criação de projetos.
+Me chamo Jheniffer Rodrigues Andrade, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio, estou cursando Sistemas da informação na Universidade UNIP. Sou apaixonada por tecnologia e criação de projetos.
 
 ### 🤖 Linguagens e Tecnologias
 
