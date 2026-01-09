@@ -1,8 +1,6 @@
-# 👩🏻‍💻 Jheniffer R. 
+# 👩🏻‍💻 Jheniffer R.
 
-**`Desenvolvedora`**
-
-Me chamo Jheniffer Rodrigues Andrade, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio, estou cursando Sistemas da informação na Universidade UNIP. Sou apaixonada por tecnologia e criação de projetos.
+Estudante de tecnologia apaixonada por aprendizado contínuo e novos desafio | HTML, CSS, JavaScript | Em constante evolução 🚀
 
 ### 🤖 Linguagens e Tecnologias
 
